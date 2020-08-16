@@ -160,10 +160,10 @@ export default {
 				{ name: '秘书处', checked: false, disabled: false },
 				{ name: '网技', checked: false, disabled: false },
 				{ name: '摄影', checked: false, disabled: false },
-				{ name: '摄像', checked: false, disabled: false },
 				{ name: '音视频', checked: false, disabled: false },
 				{ name: '采编', checked: false, disabled: false },
 				{ name: '设计', checked: false, disabled: false },
+				{ name: '运营', checked: false, disabled: false }
 			],
 			actionSheetList: [
 				{
