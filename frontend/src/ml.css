@@ -1,0 +1,57 @@
+.mla-bigtitle{
+	font-family:"pingfang";
+	font-size: 80rpx;
+	color: #000;
+	margin-left: 40rpx;
+	margin-top: 130rpx;
+	font-weight: bold;
+}
+.mla-articleline{
+	height:2rpx;
+	width:670rpx;
+	background-color: #c6c6c8 ;
+	position:relative;
+	z-index:99;
+}
+.mla-articletitle{
+	font-family:"pingfang-regular";
+	font-size: 50rpx;
+	color: #000;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
+.mla-articledetail{
+	font-family:"pingfang-regular";
+	font-size: 50rpx;
+	color:#8a8a8d;
+	margin-top: 12rpx;
+}
+.mla-secondtitle{
+	font-family:"pingfang";
+	font-size: 40rpx;
+	color: #000;
+	margin-left: 40rpx;
+}
+.mla-check{
+	font-family:"pingfang";
+	font-size: 30rpx;
+	color:#3478f6;
+	margin-top:20rpx;
+}
+.mla-content{
+	font-family:"pingfang-regular";
+	font-size: 30rpx;
+	color: #000;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
+.mla-subcontent{
+	font-family:"pingfang-regular";
+	font-size: 34rpx;
+	color:#8a8a8d;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}

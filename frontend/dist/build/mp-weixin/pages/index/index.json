@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "兰州恒昌重卡",
+  "usingComponents": {
+    "u-swiper": "/node-modules/uview-ui/components/u-swiper/u-swiper"
+  }
+}
