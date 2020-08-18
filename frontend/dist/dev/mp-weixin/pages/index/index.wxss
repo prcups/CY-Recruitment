@@ -24,33 +24,7 @@
 /* 垂直间距 */
 /* 透明度 */
 /* 文章场景相关 */
-.content.data-v-1badc801 {
-  width: 100vw;
-}
-.nav-li.data-v-1badc801 {
+.wrap.data-v-1badc801 {
   padding: 30rpx;
-  border-radius: 12rpx;
-  width: 325rpx;
-  background-image: url(https://cdn.nlark.com/yuque/0/2019/png/280374/1552996358352-assets/web-upload/cc3b1807-c684-4b83-8f80-80e5b8a6b975.png);
-  background-size: cover;
-  background-position: center;
-  position: relative;
-  z-index: 1;
-  background-color: #1cbbb4;
-  color: #ffffff;
-}
-.nav-li.data-v-1badc801::after {
-  content: '';
-  position: absolute;
-  z-index: -1;
-  background-color: inherit;
-  width: 100%;
-  height: 100%;
-  left: 0;
-  bottom: -10%;
-  border-radius: 5px;
-  opacity: 0.2;
-  -webkit-transform: scale(0.9, 0.9);
-  transform: scale(0.9, 0.9);
 }
 

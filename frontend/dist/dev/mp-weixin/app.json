@@ -1,15 +1,13 @@
 {
   "pages": [
-    "pages/index/index",
-    "pages/index/article"
+    "pages/index/index"
   ],
   "subPackages": [],
   "window": {
     "navigationBarTextStyle": "black",
-    "navigationBarTitleText": "兰州恒昌重卡",
+    "navigationBarTitleText": "blank",
     "navigationBarBackgroundColor": "#FFF",
     "backgroundColor": "#F8F8F8"
   },
-  "usingComponents": {},
-  "sitemapLocation": "sitemap.json"
+  "usingComponents": {}
 }
